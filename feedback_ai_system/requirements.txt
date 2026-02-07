@@ -1,0 +1,15 @@
+pandas
+ollama
+openai
+python-dotenv
+google-generativeai
+openai-agents
+numpy
+llama-index
+cohere
+streamlit
+google-generativeai
+crewai
+pandas
+openai
+tqdm

@@ -1,0 +1,4 @@
+"source_id,source_type,category,priority,technical_details,suggested_title"
+"R1,review,Bug,Critical,""Crash during sync on Android"",""Crash when syncing tasks"""
+"R3,review,Feature Request,Medium,""Dark mode missing"",""Add dark mode"""
+"E1,email,Bug,Critical,""Android 13 Pixel 6 crash"",""Crash on Add Task"""

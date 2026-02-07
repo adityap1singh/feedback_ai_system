@@ -1,0 +1,6 @@
+"review_id,platform,rating,review_text,user_name,date,app_version"
+"R1,Google Play,1,""App crashes when I try to sync tasks"",""Amit"",2025-01-10,3.0.1"
+"R2,App Store,5,""Amazing app! Love the new focus mode"",""Sarah"",2025-01-11,3.0.1"
+"R3,Google Play,3,""Please add dark mode support"",""Ravi"",2025-01-12,3.0.1"
+"R4,App Store,2,""App is very slow after update"",""John"",2025-01-12,2.9.8"
+"R5,Google Play,1,""Buy crypto now!!! www.fake.com"",""SpamUser"",2025-01-13,3.0.1"

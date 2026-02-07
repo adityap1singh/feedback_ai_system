@@ -1,0 +1,4 @@
+"email_id,subject,body,sender_email,timestamp,priority"
+"E1,App Crash Report,""The app crashes on Android 13 when clicking add task. Device: Pixel 6."",user1@gmail.com,2025-01-13,"
+"E2,Feature Request: Dark Mode,""It would be great to have dark mode for night usage."",user2@gmail.com,2025-01-13,Low"
+"E3,Login Issue,""Unable to login since last update. iOS 17.1 iPhone 13."",user3@gmail.com,2025-01-14,High"
